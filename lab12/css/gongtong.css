@@ -1,0 +1,91 @@
+
+.mianbaoxie a{
+	font-size: 25px;
+	font-family: "微软雅黑";
+}
+.mianbaoxie a:hover{
+	color: white;
+}
+
+.gonggao{
+	text-align: left;
+}
+.tp{
+	height: 350px;
+	width: 900px;
+}
+
+#logo{
+	padding-left: 100px;
+	float: left;
+}
+.zi a #xiaoshou{
+	height: 40px;
+	width: 40px;
+}
+.shangmian{
+	
+	background-image: url(../images/QQ图片20170618150005.png);
+	
+	background-size:1200px 350px;
+	background-repeat: repeat-x;
+	margin:0;
+	padding:0;
+	
+	
+}
+.banner{
+
+	height: 350px;
+	width: 1000px;
+	
+}
+.xiamian{
+
+	background-color:#c2d1e7;
+	height: 70px;
+	border-color: white;
+	border:2px;
+
+}
+.chaolianjie{
+	padding-top: 20px;
+
+}
+.chaolianjie a{
+	color: #82818a;
+	font-size: 35px;
+	font-family: "汉仪小麦体简","黑体";
+
+}
+.chaolianjie 
+	a:link{
+		text-decoration: none;
+	}
+.chaolianjie 
+	a:hover{
+		text-decoration: underline;
+		color:white;
+		font-size: 45px;
+
+	}
+.xiaotieshi{
+	padding-top: 15px ;
+	clear: both;
+	text-align:right;
+	font-size: 27px;
+	font-family: "汉仪小麦体简","黑体";
+	color: #8a65a2;
+	padding-right: 50px;
+	
+
+}
+.dibu{
+	clear: both;
+	height: 60px;
+	background-color:#c2d1e7;
+	color: white;
+	font-family:"造字工房尚黑 G0v1 细体", "微软雅黑";	
+	font-size: 20px;
+	padding:15px 0px; 
+}

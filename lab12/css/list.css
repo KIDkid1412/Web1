@@ -1,0 +1,137 @@
+*{
+	margin:0 auto;
+	padding:0;
+	
+	font-family:宋体；
+	font-size:12px;
+	text-align: center;
+
+}
+body{
+	background-color: #d7d7e0;
+	text-align: center;
+
+}
+
+a{
+	color: #82818a;
+	
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+	
+}
+
+
+.mianbaoxie{
+	padding:20px 0px 0px 420px; 
+	text-align: left;
+}
+.chaolianjie a{
+	color: #82818a;
+	font-size: 35px;
+	font-family: "汉仪小麦体简","微软雅黑";
+
+}
+.chaolianjie 
+	a:link{
+		text-decoration: none;
+	}
+.chaolianjie 
+	a:hover{
+		text-decoration: underline;
+		color:white;
+		font-size: 45px;
+
+	}
+.teshu a:hover{
+	color: #;
+	text-decoration: none;
+}
+.zhongbu{
+
+	width: 1600px;
+	margin: 0px 350px;
+}
+.left{
+	
+	padding-left:80px;
+	width: 90px;
+	padding-bottom: 20px; 
+}
+.biaodan{
+	text-align: left;
+}
+.right{
+	
+	padding-left:30px;
+	padding-bottom: 20px;
+	width: 420px;
+	border:1px;
+}
+.zi{
+	margin-bottom: 40px; 
+	padding: 10px;
+	padding-top: 60px;
+	font-family: "微软雅黑";
+	font-size: 40px;
+	border-bottom-color:black;
+	border-bottom-width:2px;
+	border-bottom-style:solid;
+	text-align: left;
+	
+}
+#zi{
+	margin-bottom: 10px; 
+	padding: 10px;
+	
+	font-family: "微软雅黑";
+	font-size: 40px;
+	border-bottom-color:black;
+	border-bottom-width:2px;
+	border-bottom-style:solid;
+	text-align: left;
+}
+input[type="submit"]{
+	font-family: "微软雅黑";
+	border-color: white;
+	width: 70px;
+	background : url(../images/QQ图片20170619170038.png) center ;
+}
+input[type="button"]{
+	font-family: "微软雅黑";
+	border-color: white;
+	width: 70px;
+}
+.ming{
+	font-family: "微软雅黑";
+
+}
+
+.kaitou{
+	font-size: 35px;
+	color: black;
+	font-family: "造字工房尚黑 G0v1 细体","微软雅黑";
+}
+.teshu a{
+	color: white;
+	font-family: "微软雅黑";
+	font-size: 27px;
+	text-decoration: underline;
+}
+.teshu a:hover{
+	color: #8a65a2;
+	text-decoration: none;
+}
+p{
+	font-family: "微软雅黑";
+	text-indent: 2em;
+	color: #82818a;
+	font-size: 27px;
+	line-height:2em;
+	text-align: left;
+
+}
